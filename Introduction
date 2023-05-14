@@ -1,0 +1,23 @@
+INTRO
+Machine learning is a subfield of artificial intelligence that focuses on building systems that can learn from data and improve over time
+without being explicitly programmed. The goal of machine learning is to develop algorithms that can automatically identify patterns in data
+and make accurate predictions or decisions based on that data.
+
+There are three main types of machine learning:
+
+1. Supervised Learning: In supervised learning, the algorithm is trained on labeled data, which means that the input data has a known output
+value or target. The algorithm learns to make predictions based on the input data and the associated output labels. Common supervised learning
+algorithms include linear regression, logistic regression, decision trees, and random forests.
+
+2. Unsupervised Learning: In unsupervised learning, the algorithm is trained on unlabeled data, which means that there is no known output value
+or target. The algorithm learns to identify patterns in the input data and group similar data points together. Common unsupervised learning
+algorithms include clustering, dimensionality reduction, and association rule mining.
+
+3. Reinforcement Learning: In reinforcement learning, the algorithm learns through trial and error by interacting with an environment.
+The algorithm receives feedback in the form of rewards or penalties based on its actions, and learns to take actions that maximize the
+rewards over time. Reinforcement learning is often used in applications such as robotics, gaming, and autonomous vehicles.
+
+Machine learning has many applications in a wide range of industries, including finance, healthcare, manufacturing, and transportation.
+Some common applications of machine learning include fraud detection, image and speech recognition, natural language processing, and 
+predictive maintenance. To implement machine learning algorithms, various programming languages and libraries such as Python, R, 
+TensorFlow, and scikit-learn are commonly used.
